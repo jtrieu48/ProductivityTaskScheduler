@@ -31,6 +31,6 @@ The program installation requires someone to be able to call a .out file.
 - Exit, exits the program
 
 ## Demo
-<img src="https://github.com/cs100/final-project-cmira039-gcost003-jtrie002-asimi003/blob/master/resources/CS100_Screenshot1.png" width="500" height="400">
+![screenshot1](https://github.com/cs100/final-project-cmira039-gcost003-jtrie002-asimi003/blob/master/resources/CS100_Screenshot1.png)
 
-<img src="https://github.com/cs100/final-project-cmira039-gcost003-jtrie002-asimi003/blob/master/resources/CS100_Screenshot2.png" width="500" height="400">
+![screenshot2](https://github.com/cs100/final-project-cmira039-gcost003-jtrie002-asimi003/blob/master/resources/CS100_Screenshot2.png)
