@@ -1,5 +1,5 @@
 
-# Task Scheduler
+# Productivity Task Scheduler
  
  > Authors: [Giovanni Costagliola](https://github.com/gcost003), [Justin Trieu](https://github.com/jtrieu48), [Angelica Simityan](https://github.com/AngelicaSimityan), [Carlos Miranda ](https://github.com/kotooriiii)
 
